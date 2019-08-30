@@ -17,7 +17,7 @@
     "redux": "^4.0.1",
     "redux-thunk": "^2.3.0"
   },
-  "homepage":"https://mikem2m.github.io/React-Social-Media",
+  "homepage": "https://mikem2m.github.io/React-Social-Media",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
