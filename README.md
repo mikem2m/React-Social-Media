@@ -6,7 +6,8 @@ A fully-featured social media, inspired by Twitter, where user could create, lik
 
 Tools: React | Redux | Firebase | Node.js | Express | Material UI | Postman
 
-How the app stores user information: 
+**How the app stores user information:**
+
 The Social Media is using Firebase as the backend "cloud" database to store:
 1. Username
 2. User-email
